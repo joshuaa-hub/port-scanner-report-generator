@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+scan_history.db
+database/*.db
+reports/*.pdf
+.vscode/
